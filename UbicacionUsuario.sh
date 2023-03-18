@@ -2,5 +2,5 @@
 
 echo $USER
 
-passwd
+pwd
 
