@@ -20,4 +20,6 @@ lsb_release -idc
 
 ## mostrar fecha y hora pero más elegante
 
+## por decidir con https://www.islabit.com/91610/como-mostrar-la-fecha-y-la-hora-en-un-terminal-linux.html
+
 date +"Hoy es: %A %d %B"
