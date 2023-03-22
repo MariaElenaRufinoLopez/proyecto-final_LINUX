@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## se realizan comandos para lograr ver la ram, que posteriormente
-## se van a volver aliass
+## se van a volver alias !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 free -t --mega
 
@@ -18,3 +18,6 @@ sudo lshw -C CPU | grep width
 
 lsb_release -idc
 
+## mostrar fecha y hora pero más elegante
+
+date +"Hoy es: %A %d %B"
