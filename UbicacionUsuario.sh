@@ -29,5 +29,5 @@ export PATH
 porfin() {
     cd ..; ls -la
 }
-
+ # requiere confirmar con source ./bashrc
 # se intentó de otra forma y no funcionó, seguire intentando y borrare mañana lo que no funcionó
